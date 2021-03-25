@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**datvu9x/datvu9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###### Sup! Here's **Dat Vu**! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I'm MOBILE DEV/☁️! 😄
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=datvu9x&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datvu9x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datvu9x&theme=radical&layout=compactl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=POP3-Client&theme=radical)](https://github.com/linagora/linshare-mobile-flutter-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=Chat-Online-Server-PHP&theme=radical)](https://github.com/linagora/linshare-mobile-android-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=Player-For-Cloud&theme=radical)](https://github.com/linagora/linshare-mobile-android-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=Skipping-Stone-Unity-3D&theme=radical)](https://github.com/linagora/linshare-mobile-android-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=iSubPronouncation&theme=radical)](https://github.com/linagora/linshare-mobile-android-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=datvu9x&repo=Discount-Ascii-Warehouse&theme=radical)](https://github.com/linagora/linshare-mobile-android-app)
